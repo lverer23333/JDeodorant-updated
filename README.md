@@ -1,4 +1,4 @@
-# JDeodorant
+# JDeodorant with some code updated
 JDeodorant is an Eclipse plug-in that detects design problems in Java software, known as code smells, and recommends appropriate refactorings to resolve them.
 
 For the moment, the tool supports five code smells, namely **Feature Envy**, **Type/State Checking**, **Long Method**, **God Class** and **Duplicated Code**.
